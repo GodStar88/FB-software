@@ -1,0 +1,6 @@
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Release\WindowsApplication15.exe.config
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Release\WindowsApplication15.Form1.resources
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Release\WindowsApplication15.Form3.resources
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Release\WindowsApplication15.Form4.resources
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Release\WindowsApplication15.Resources.resources
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Release\WindowsApplication15.vbproj.GenerateResource.Cache

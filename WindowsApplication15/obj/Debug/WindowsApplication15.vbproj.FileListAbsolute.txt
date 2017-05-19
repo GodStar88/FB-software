@@ -1,0 +1,111 @@
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe.config
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.pdb
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.xml
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\HtmlAgilityPack.dll
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\MetroFramework.Design.dll
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\MetroFramework.dll
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\MetroFramework.Fonts.dll
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\MySql.Data.dll
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\HtmlAgilityPack.pdb
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\HtmlAgilityPack.xml
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.vbprojResolveAssemblyReference.cache
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Form1.resources
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Resources.resources
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.vbproj.GenerateResource.Cache
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.exe
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.xml
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.pdb
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Form4.resources
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\WebDriver.dll
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\WebDriver.xml
+c:\users\reditsoft\documents\visual studio 2012\Projects\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Form3.resources
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe.config
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.exe
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.xml
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.pdb
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.pdb
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.xml
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\bin\Debug\WebDriver.dll
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\bin\Debug\HtmlAgilityPack.xml
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\bin\Debug\WebDriver.xml
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.vbprojResolveAssemblyReference.cache
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Form1.resources
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Form3.resources
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Form4.resources
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Resources.resources
+C:\Users\C\Desktop\New folder\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.vbproj.GenerateResource.Cache
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe.config
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.pdb
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.xml
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\Newtonsoft.Json.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\System.Net.Http.Formatting.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\WebDriver.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\Newtonsoft.Json.xml
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\System.Net.Http.Formatting.xml
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\WebDriver.xml
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Form1.resources
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Form3.resources
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Form4.resources
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Resources.resources
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.vbproj.GenerateResource.Cache
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.exe
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.xml
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.pdb
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.vbprojResolveAssemblyReference.cache
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\Microsoft.Data.Edm.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\Microsoft.Data.OData.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\Microsoft.Hadoop.WebClient.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\System.Spatial.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\Microsoft.WindowsAzure.Management.HDInsight.Framework.Experimental.Threading.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\Microsoft.Data.Edm.xml
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\Microsoft.Data.OData.xml
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\System.Spatial.xml
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\de\System.Spatial.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\es\System.Spatial.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\fr\System.Spatial.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\it\System.Spatial.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\ja\System.Spatial.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\ko\System.Spatial.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\ru\System.Spatial.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Work\VC\FB\WindowsApplication15\WindowsApplication15\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe.config
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.exe
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.xml
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.pdb
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.pdb
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.xml
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\bin\Debug\WebDriver.dll
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\bin\Debug\WebDriver.xml
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.vbprojResolveAssemblyReference.cache
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Form1.resources
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Form3.resources
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Form4.resources
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.Resources.resources
+E:\Work\VC\Bot\FB\WindowsApplication15\WindowsApplication15\obj\Debug\WindowsApplication15.vbproj.GenerateResource.Cache
